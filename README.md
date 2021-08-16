@@ -7,6 +7,7 @@
 :mailbox_with_no_mail: How to reach me? If you like my repos, you would contact me by [e-mail](mailto:pabloromanlezcano@gmail.com) or [linkedin](https://www.linkedin.com/in/pablolezcano/). 
 
 ### My repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?pablolezcano=anuraghazra&repo=github-readme-stats)](https://github.com/pablolezcano/app-gestor-de-leyendas)
 
 
 
